@@ -1,2 +1,11 @@
-// Ignore these files //
+# security
 .env
+
+# forwarding
+ngrok.exe
+
+# dependencies
+node_modules
+
+# misc
+.DS_Store
